@@ -1,0 +1,8 @@
+{
+  "name": "SmartTriage AI",
+  "description": "AI-Powered Patient Triage & Risk Assessment System using Gemini models",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
